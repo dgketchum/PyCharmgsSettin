@@ -1,0 +1,12 @@
+<application>
+  <component name="PySdkService">
+    <option name="REMOVED_SDKS">
+      <set>
+        <option value="C:\Users\David\Anaconda2\envs\FIRO\python.exe" />
+        <option value="C:\Users\David\Anaconda2\envs\FIRO\pythonw.exe" />
+        <option value="C:\Users\David\Anaconda2\envs\arcmap102\python.exe" />
+        <option value="C:\Users\David\Anaconda2_64\python.exe" />
+      </set>
+    </option>
+  </component>
+</application>

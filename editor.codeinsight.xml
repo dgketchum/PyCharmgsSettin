@@ -1,0 +1,10 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
+    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
+  </component>
+</application>
