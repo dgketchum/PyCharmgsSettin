@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/NMTHydro/GADGET.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="dgketchum" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\David\PycharmProjects" />
