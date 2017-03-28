@@ -30,9 +30,13 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="dgketchum" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jaredwo/obsio" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\David\PycharmProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects/MT_Rsense" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
