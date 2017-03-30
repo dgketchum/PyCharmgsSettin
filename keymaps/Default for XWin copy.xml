@@ -1,4 +1,5 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateTODOToolWindow" />
   <action id="CollapseRegionRecursively">
     <keyboard-shortcut first-keystroke="ctrl alt subtract" />
@@ -13,6 +14,10 @@
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl alt equals" />
+  </action>
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="ctrl alt add" />
