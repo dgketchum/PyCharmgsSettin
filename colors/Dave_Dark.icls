@@ -1,6 +1,6 @@
 <scheme name="Dave_Dark" version="142" parent_scheme="Darcula">
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
     <option name="CONSOLE_USER_INPUT">
       <value>
