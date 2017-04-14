@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="plotting.py" type="PLAIN_TEXT" />
+      <mapping pattern=".travis.yml" type="PLAIN_TEXT" />
       <mapping pattern="export" type="PLAIN_TEXT" />
       <mapping pattern="matplotlib_test.py" type="PLAIN_TEXT" />
       <mapping pattern="Extract_byPoint_Pen" type="Python" />
