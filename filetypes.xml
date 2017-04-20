@@ -4,18 +4,18 @@
     <extensionMap>
       <mapping pattern="plotting.py" type="PLAIN_TEXT" />
       <mapping pattern=".travis.yml" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="export" type="PLAIN_TEXT" />
       <mapping pattern="toss1" type="PLAIN_TEXT" />
       <mapping pattern="matplotlib_test.py" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="Extract_byPoint_Pen" type="Python" />
+      <mapping pattern="ETRM_monthly_recover" type="Python" />
       <mapping pattern="Sevilleta_dep" type="Python" />
       <mapping pattern="plotting" type="Python" />
       <mapping pattern="list_variables_test" type="Python" />
       <mapping pattern="First_Project" type="Python" />
       <mapping pattern="3D_plt" type="Python" />
-      <mapping pattern="ETRM_monthly_recover" type="Python" />
+      <mapping pattern=".travis" type="YAML_EX" />
     </extensionMap>
   </component>
 </application>
