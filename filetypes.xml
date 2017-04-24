@@ -9,6 +9,7 @@
       <mapping pattern="export" type="PLAIN_TEXT" />
       <mapping pattern="toss1" type="PLAIN_TEXT" />
       <mapping pattern="matplotlib_test.py" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping pattern="Extract_byPoint_Pen" type="Python" />
       <mapping pattern="Sevilleta_dep" type="Python" />
       <mapping pattern="plotting" type="Python" />
