@@ -78,6 +78,10 @@
           <option name="url" value="https://github.com/dgketchum/Landsat578" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dgketchum/csci547.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\David\PycharmProjects" />
