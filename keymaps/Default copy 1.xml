@@ -1,7 +1,11 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ActivateTODOToolWindow" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt 6" />
   </action>
 </keymap>
