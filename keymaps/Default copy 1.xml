@@ -1,17 +1,23 @@
 <keymap version="1" name="Default copy 1" parent="$default">
   <action id="ActivateTODOToolWindow" />
+  <action id="CloseAllUnmodifiedEditors">
+    <keyboard-shortcut first-keystroke="ctrl decimal" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="Console.Execute.Multiline" />
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
+  <action id="ViewSource" />
 </keymap>
