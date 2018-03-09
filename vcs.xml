@@ -90,6 +90,14 @@
           <option name="url" value="https://github.com/dgketchum/IrrMapper.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.chg.ucsb.edu/ssebop/ssebop-gee/tree/dave.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.chg.ucsb.edu/ssebop/ssebop-gee.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\David\PycharmProjects" />
