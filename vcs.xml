@@ -98,6 +98,10 @@
           <option name="url" value="http://git.chg.ucsb.edu/ssebop/ssebop-gee.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Open-ET/cloud-free-scene-counts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\David\PycharmProjects" />
