@@ -4,10 +4,10 @@
     <property name="created">2017-05-11T07:14:01</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2018-02-22T16:52:22</property>
+    <property name="modified">2018-03-13T14:27:28</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
