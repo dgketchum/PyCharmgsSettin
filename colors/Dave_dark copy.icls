@@ -1,5 +1,57 @@
 <scheme name="Dave_dark copy" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <attributes>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="ffe72c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="9ff6" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="cb12" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="def1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ff9700" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="ff000d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="d8efff" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="4bb06" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="3c704b" />
+        <option name="ERROR_STRIPE_COLOR" value="61936f" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
