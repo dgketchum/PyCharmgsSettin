@@ -1,16 +1,8 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
-  <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateTODOToolWindow" />
-  <action id="CloseAllUnmodifiedEditors">
-    <keyboard-shortcut first-keystroke="ctrl decimal" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="control button1" />
   </action>
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
-  <action id="ExecuteInPyConsoleAction">
-    <keyboard-shortcut first-keystroke="alt 2" />
-  </action>
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="alt 6" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
 </keymap>
